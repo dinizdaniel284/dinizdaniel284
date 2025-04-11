@@ -5,7 +5,7 @@
 ## 👀 Sobre mim  
 - 🌍 **Localidade**: Santa Rita do Passa Quatro, São Paulo - Brasil  
 - 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-- 🚀 **Interesses**: Backend, AWS, Python, Metodologias Ágeis (Scrum/kanban) e Jira Software  
+- 🚀 **Interesses**: Backend, AWS, Python, Java, Javascript,mondoDB,Metodologias Ágeis (Scrum/kanban), PowerBI.
 
 ## 🌱 Atualmente aprendendo  
 - Desenvolvimento backend com **Python** (Flask/Django)  
