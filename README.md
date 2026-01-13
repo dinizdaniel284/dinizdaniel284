@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Daniel%20Diniz&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
-  
   # 👋 Olá, eu sou o Daniel Diniz
   ### Software Engineer Student | Full Stack Developer & Data Analyst
   
@@ -23,27 +21,33 @@
 * 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2025–2027).
 * 💻 Focado em se tornar um desenvolvedor **Full Stack** com sólida base em **Backend**.
 * 📊 Especialista em análise de dados com **Power BI** e **Excel Avançado**.
-* ⚡ Transição de carreira iniciada em 2024, trazendo resiliência e disciplina de experiências anteriores.
+* ⚡ Transição de carreira iniciada em 2024, trazendo resiliência e disciplina.
 
 ---
 
 ### 🛠️ Tecnologias e Habilidades
 
 **Backend & Core**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 **Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Análise de Dados & Ferramentas**
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230a0fff.svg?style=for-the-badge&logo=atlassian&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinizdaniel284&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizdaniel284&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinizdaniel284&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizdaniel284&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
