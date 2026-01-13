@@ -1,8 +1,8 @@
 <div align="center">
-  # 👋 Olá, eu sou o Daniel Diniz
-  ### Software Engineer Student | Full Stack Developer & Data Analyst
+  <h1>👋 Olá, eu sou o Daniel Diniz</h1>
+  <h3>Software Engineer Student | Full Stack Developer & Data Analyst</h3>
   
-  <p align="center">
+  <p>
     <a href="https://www.linkedin.com/in/daniel-diniz-186b52339">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -43,11 +43,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinizdaniel284&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dinizdaniel284&show_icons=true&theme=visual_studio_code" alt="Stats Daniel" />
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizdaniel284&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dinizdaniel284&layout=compact&theme=visual_studio_code" alt="Langs Daniel" />
 </div>
 
 ---
@@ -55,7 +55,7 @@
 ### 📌 Projetos em Destaque
 - **Calculadora de Despesas:** Gestão ágil via Jira + Python.
 - **Dashboard Financeiro:** Power BI com ETL avançado em Power Query.
-- **TI-Saúde:** Full Stack (React + Tailwind + MongoDB) com deploy na Vercel/Render.
+- **TI-Saúde:** Full Stack (React + Tailwind + MongoDB).
 
 <div align="right">
   <i>"Não importa onde você começa, mas sim onde você quer chegar." 🚀</i>
