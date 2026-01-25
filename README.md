@@ -1,14 +1,9 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Tech Banner" width="100%" style="border-radius: 10px;" />
 
-  <br>
+  <br><br>
 
-  <p align="right">
-    <a href="README.md">Português 🇧🇷</a> | 
-    <a href="README_en.md">English 🇺🇸</a>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=120&section=header&text=Daniel%20Diniz&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+  <h1>Daniel Diniz</h1>
 
   <h3>🚀 Software Engineer Student | Full Stack Developer & Data Analyst</h3>
 
@@ -22,6 +17,8 @@
     <a href="https://wa.me/5519992278928">
       <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
+    <br><br>
+    <a href="README.md"><strong>Português 🇧🇷</strong></a> | <a href="README_en.md"><strong>English 🇺🇸</strong></a>
   </p>
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Transformando%20caf%C3%A9%20em%20c%C3%B3digo%20e%20dados%20em%20decis%C3%B5es." />
