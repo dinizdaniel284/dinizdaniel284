@@ -50,7 +50,7 @@ Atualmente desenvolvo **produtos reais em produção**, com foco em performance,
 ### 🩺 TI-Saúde — Plataforma Web
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/xTiTnIilwuFFFpf2Cc/giphy.gif" width="600" />
 </p>
 
 **Descrição:**  
@@ -60,14 +60,14 @@ Plataforma voltada ao nicho de TI e saúde, com foco em performance, SEO e exper
 Next.js 15 • TypeScript • Framer Motion • Vercel  
 
 🔗 **Demo:** https://ti-saude.vercel.app/  
-📦 **Código:** https://github.com/dinizdaniel284  
+📦 **Código:** https://github.com/dinizdaniel284/ti-saude-frontend  
 
 ---
 
 ### 🤖 Sistema de Vendas com IA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600" />
 </p>
 
 **Descrição:**  
@@ -84,7 +84,7 @@ Next.js 15 (App Router) • Supabase (PostgreSQL) • OpenAI (GPT-4o-mini) • P
 ### 🏢 Protótipo Actus — Site Corporativo
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" />
 </p>
 
 **Descrição:**  
@@ -94,7 +94,7 @@ Protótipo de site corporativo com foco em SEO, semântica HTML5 e layout modern
 HTML5 • CSS Grid & Flexbox • SEO  
 
 🔗 **Demo:** https://prototipo-actus.vercel.app/  
-📦 **Código:** https://github.com/dinizdaniel284  
+📦 **Código:** https://github.com/dinizdaniel284/prototipo-actus  
 
 ---
 
