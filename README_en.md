@@ -60,7 +60,7 @@ A web platform focused on the IT and healthcare niche, with strong emphasis on p
 Next.js 15 • TypeScript • Framer Motion • Vercel  
 
 🔗 **Demo:** https://ti-saude.vercel.app/  
-📦 **Code:** https://github.com/dinizdaniel284  
+📦 **Code:** https://github.com/dinizdaniel284/ti-saude-frontend  
 
 ---
 
@@ -94,7 +94,7 @@ A corporate website prototype with a focus on SEO, semantic HTML5, and modern la
 HTML5 • CSS Grid & Flexbox • SEO  
 
 🔗 **Demo:** https://prototipo-actus.vercel.app/  
-📦 **Code:** https://github.com/dinizdaniel284  
+📦 **Code:** https://github.com/dinizdaniel284/prototipo-actus  
 
 ---
 
