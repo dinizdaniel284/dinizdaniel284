@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Tech Banner" width="100%" style="border-radius: 10px;" />
+  <img 
+    src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80" 
+    alt="Tech Banner" 
+    width="100%" 
+    style="max-height: 320px; object-fit: cover; border-radius: 12px;" 
+  />
 
   <br><br>
 
@@ -18,7 +23,8 @@
       <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
     <br><br>
-    <a href="README.md"><strong>Português 🇧🇷</strong></a> | <a href="README_en.md"><strong>English 🇺🇸</strong></a>
+    <a href="README.md"><strong>Português 🇧🇷</strong></a> | 
+    <a href="README_en.md"><strong>English 🇺🇸</strong></a>
   </p>
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Transformando%20caf%C3%A9%20em%20c%C3%B3digo%20e%20dados%20em%20decis%C3%B5es." />
@@ -26,60 +32,81 @@
 
 ---
 
-### 📖 Sobre Mim
+## 📖 Sobre Mim
 
-Sou um entusiasta da tecnologia em transição de carreira, unindo a precisão da **Análise de Dados** com o poder de construção do **Desenvolvimento Full Stack**. Atualmente focado na stack Python/Java no Backend e React no Frontend.
+Sou um entusiasta da tecnologia em **transição de carreira**, unindo a precisão da **Análise de Dados** com o poder de construção do **Desenvolvimento Full Stack**.
 
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (2025 – 2027)
-- ⚡ **Foco:** Arquitetura de Sistemas, Clean Code e Performance.
-- 🛠️ **Diferencial:** Experiência avançada em BI (Power BI/Excel), trazendo uma visão analítica para o desenvolvimento.
+Atualmente desenvolvo **produtos reais em produção**, com foco em performance, arquitetura de sistemas e experiência do usuário.
 
----
-
-### 🌟 Projeto em Destaque (Card Especial)
-
-<div align="center">
-  <a href="https://github.com/dinizdaniel284/meu-sistema-vendas">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=dinizdaniel284&repo=meu-sistema-vendas&theme=tokyonight&show_owner=true" />
-  </a>
-  <br>
-  <p>
-    <strong>🛒 Sistema de Gestão de Vendas</strong><br>
-    Interface moderna, controle de estoque e dashboard de analytics integrado.<br>
-    🚀 <a href="https://meu-sistema-vendas.vercel.app/">Acessar o Deploy Live</a>
-  </p>
-</div>
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (2025 – 2027)  
+- ⚡ **Foco:** Arquitetura de Sistemas, Clean Code e Performance  
+- 🛠️ **Diferencial:** Forte background em BI (Power BI / Excel), trazendo visão analítica para o desenvolvimento  
+- 🚀 **Objetivo:** Oportunidade como Estágio / Trainee em Tecnologia  
 
 ---
 
-### 🛠️ Toolbox (Minhas Tecnologias)
+## 💎 Projetos em Destaque
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Backend</strong><br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Frontend</strong><br>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Data & Database</strong><br>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 🩺 TI-Saúde — Plataforma Web
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>
+
+**Descrição:**  
+Plataforma voltada ao nicho de TI e saúde, com foco em performance, SEO e experiência do usuário.
+
+**Stack:**  
+Next.js 15 • TypeScript • Framer Motion • Vercel  
+
+🔗 **Demo:** https://ti-saude.vercel.app/  
+📦 **Código:** https://github.com/dinizdaniel284  
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🤖 Sistema de Vendas com IA
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" />
+</p>
+
+**Descrição:**  
+Ferramenta para geração de páginas e automação de vendas utilizando Inteligência Artificial.
+
+**Stack:**  
+Next.js 15 (App Router) • Supabase (PostgreSQL) • OpenAI (GPT-4o-mini) • Pollinations AI  
+
+🔗 **Demo:** https://meu-sistema-vendas.vercel.app/  
+📦 **Código:** https://github.com/dinizdaniel284/meu-sistema-vendas  
+
+---
+
+### 🏢 Protótipo Actus — Site Corporativo
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" />
+</p>
+
+**Descrição:**  
+Protótipo de site corporativo com foco em SEO, semântica HTML5 e layout moderno.
+
+**Stack:**  
+HTML5 • CSS Grid & Flexbox • SEO  
+
+🔗 **Demo:** https://prototipo-actus.vercel.app/  
+📦 **Código:** https://github.com/dinizdaniel284  
+
+---
+
+## 🛠️ Toolbox (Minhas Tecnologias)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,postgres,mongodb,supabase,tailwind,git,github,vercel" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinizdaniel284&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
@@ -91,6 +118,8 @@ Sou um entusiasta da tecnologia em transição de carreira, unindo a precisão d
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinizdaniel284&theme=tokyonight" width="100%" />
 </div>
+
+---
 
 <div align="center">
   <sub>Integridade, Disciplina e Evolução Contínua. 🚀</sub>
