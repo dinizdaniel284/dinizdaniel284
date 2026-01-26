@@ -50,7 +50,7 @@ Atualmente desenvolvo **produtos reais em produção**, com foco em performance,
 ### 🩺 TI-Saúde — Plataforma Web
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnIilwuFFFpf2Cc/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600" />
 </p>
 
 **Descrição:**  
@@ -67,7 +67,7 @@ Next.js 15 • TypeScript • Framer Motion • Vercel
 ### 🤖 Sistema de Vendas com IA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
 </p>
 
 **Descrição:**  
@@ -84,7 +84,7 @@ Next.js 15 (App Router) • Supabase (PostgreSQL) • OpenAI (GPT-4o-mini) • P
 ### 🏢 Protótipo Actus — Site Corporativo
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="600" />
 </p>
 
 **Descrição:**  
