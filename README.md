@@ -49,7 +49,7 @@ Atualmente desenvolvo **produtos reais em produção**, com foco em performance,
 
 ### 🩺 TI-Saúde — Plataforma Web
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-13-393_512.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer coding" />
 </p>
 
 **Stack:** Next.js 15 • TypeScript • Framer Motion • Vercel  
@@ -59,7 +59,7 @@ Atualmente desenvolvo **produtos reais em produção**, com foco em performance,
 
 ### 🤖 Sistema de Vendas com IA
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/10/24/13/46/13-46-24-420_512.gif" width="400" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="Programmer coding" />
 </p>
 
 **Stack:** Next.js 15 • Supabase • OpenAI • Pollinations AI  
@@ -69,7 +69,7 @@ Atualmente desenvolvo **produtos reais em produção**, com foco em performance,
 
 ### 🏢 Protótipo Actus — Site Corporativo
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/12/01/17/03/17-03-11-60_512.gif" width="400" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding animation" />
 </p>
 
 **Stack:** HTML5 • CSS Grid & Flexbox • SEO  
@@ -88,12 +88,21 @@ Atualmente desenvolvo **produtos reais em produção**, com foco em performance,
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinizdaniel284&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizdaniel284&layout=compact&langs_count=7&theme=tokyonight" height="180em" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dinizdaniel284&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    height="180em" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizdaniel284&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800" 
+    height="180em" 
+  />
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinizdaniel284&theme=tokyonight" width="100%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=dinizdaniel284&theme=tokyonight&cache_seconds=1800" 
+    width="100%" 
+  />
 </div>
 
 ---
