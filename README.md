@@ -48,53 +48,23 @@ Atualmente desenvolvo **produtos reais em produção**, com foco em performance,
 ## 💎 Projetos em Destaque
 
 ### 🩺 TI-Saúde — Plataforma Web
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600" />
-</p>
-
-**Descrição:**  
-Plataforma voltada ao nicho de TI e saúde, com foco em performance, SEO e experiência do usuário.
-
-**Stack:**  
-Next.js 15 • TypeScript • Framer Motion • Vercel  
-
-🔗 **Demo:** https://ti-saude.vercel.app/  
-📦 **Código:** https://github.com/dinizdaniel284/ti-saude-frontend  
+**Descrição:** Plataforma voltada ao nicho de TI e saúde, com foco em performance e SEO.  
+**Stack:** Next.js 15 • TypeScript • Framer Motion • Vercel  
+🔗 [Demo](https://ti-saude.vercel.app/) | 📦 [Código](https://github.com/dinizdaniel284/ti-saude-frontend)
 
 ---
 
 ### 🤖 Sistema de Vendas com IA
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
-</p>
-
-**Descrição:**  
-Ferramenta para geração de páginas e automação de vendas utilizando Inteligência Artificial.
-
-**Stack:**  
-Next.js 15 (App Router) • Supabase (PostgreSQL) • OpenAI (GPT-4o-mini) • Pollinations AI  
-
-🔗 **Demo:** https://meu-sistema-vendas.vercel.app/  
-📦 **Código:** https://github.com/dinizdaniel284/meu-sistema-vendas  
+**Descrição:** Geração de páginas e automação de vendas utilizando IA (GPT-4o).  
+**Stack:** Next.js 15 • Supabase • OpenAI • Pollinations AI  
+🔗 [Demo](https://meu-sistema-vendas.vercel.app/) | 📦 [Código](https://github.com/dinizdaniel284/meu-sistema-vendas)
 
 ---
 
 ### 🏢 Protótipo Actus — Site Corporativo
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="600" />
-</p>
-
-**Descrição:**  
-Protótipo de site corporativo com foco em SEO, semântica HTML5 e layout moderno.
-
-**Stack:**  
-HTML5 • CSS Grid & Flexbox • SEO  
-
-🔗 **Demo:** https://prototipo-actus.vercel.app/  
-📦 **Código:** https://github.com/dinizdaniel284/prototipo-actus  
+**Descrição:** Protótipo focado em SEO, semântica HTML5 e layout moderno.  
+**Stack:** HTML5 • CSS Grid & Flexbox • SEO  
+🔗 [Demo](https://prototipo-actus.vercel.app/) | 📦 [Código](https://github.com/dinizdaniel284/prototipo-actus)
 
 ---
 
@@ -111,12 +81,10 @@ HTML5 • CSS Grid & Flexbox • SEO
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinizdaniel284&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizdaniel284&layout=compact&langs_count=7&theme=tokyonight" height="180em" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinizdaniel284&theme=tokyonight" width="100%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinizdaniel284&theme=tokyonight" width="100%" />
 </div>
 
 ---
