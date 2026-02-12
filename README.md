@@ -40,7 +40,7 @@ Atualmente desenvolvo **produtos reais em produção**, com foco em performance,
 
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (2025 – 2027)  
 - ⚡ **Foco:** Arquitetura de Sistemas, Clean Code e Performance  
-- 🛠️ **Diferencial:** Forte background em BI (Power BI / Excel), trazendo visão analítica para o desenvolvimento  
+- 🛠️ **Diferencial:** Forte background em BI (Power BI / Excel)  
 - 🚀 **Objetivo:** Oportunidade como Estágio / Trainee em Tecnologia  
 
 ---
@@ -48,23 +48,32 @@ Atualmente desenvolvo **produtos reais em produção**, com foco em performance,
 ## 💎 Projetos em Destaque
 
 ### 🩺 TI-Saúde — Plataforma Web
-**Descrição:** Plataforma voltada ao nicho de TI e saúde, com foco em performance e SEO.  
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-13-393_512.gif" width="400" />
+</p>
+
 **Stack:** Next.js 15 • TypeScript • Framer Motion • Vercel  
-🔗 [Demo](https://ti-saude.vercel.app/) | 📦 [Código](https://github.com/dinizdaniel284/ti-saude-frontend)
+🔗 [Visualizar Demo](https://ti-saude.vercel.app/) | 📦 [Ver Código](https://github.com/dinizdaniel284/ti-saude-frontend)
 
 ---
 
 ### 🤖 Sistema de Vendas com IA
-**Descrição:** Geração de páginas e automação de vendas utilizando IA (GPT-4o).  
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2023/10/24/13/46/13-46-24-420_512.gif" width="400" />
+</p>
+
 **Stack:** Next.js 15 • Supabase • OpenAI • Pollinations AI  
-🔗 [Demo](https://meu-sistema-vendas.vercel.app/) | 📦 [Código](https://github.com/dinizdaniel284/meu-sistema-vendas)
+🔗 [Visualizar Demo](https://meu-sistema-vendas.vercel.app/) | 📦 [Ver Código](https://github.com/dinizdaniel284/meu-sistema-vendas)
 
 ---
 
 ### 🏢 Protótipo Actus — Site Corporativo
-**Descrição:** Protótipo focado em SEO, semântica HTML5 e layout moderno.  
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2022/12/01/17/03/17-03-11-60_512.gif" width="400" />
+</p>
+
 **Stack:** HTML5 • CSS Grid & Flexbox • SEO  
-🔗 [Demo](https://prototipo-actus.vercel.app/) | 📦 [Código](https://github.com/dinizdaniel284/prototipo-actus)
+🔗 [Visualizar Demo](https://prototipo-actus.vercel.app/) | 📦 [Ver Código](https://github.com/dinizdaniel284/prototipo-actus)
 
 ---
 
